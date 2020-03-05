@@ -5,7 +5,7 @@ import router from './router'
 
 import 'amfe-flexible/index.js'
 
-//element-ui
+//element-ui框架
 import Element from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 import store from './store/state.js'
